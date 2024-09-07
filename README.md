@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/SatishB15/article-preview-component)
-- Live Site URL: [Live site URL here](https://article-preview-component-six-wheat.vercel.app)
+- Solution URL: [https://github.com/SatishB15/article-preview-component](https://github.com/SatishB15/article-preview-component)
+- Live Site URL: [https://github.com/SatishB15/article-preview-component](https://article-preview-component-six-wheat.vercel.app)
 
 ## My process
 
